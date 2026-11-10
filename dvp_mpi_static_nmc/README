@@ -1,0 +1,22 @@
+Версия со статическим назначеним блока кадров каждому рабочему процессу
+
+Server mq1
+  NUMA 0
+    Intel Xeon E5-2620 v4, 8 cores
+    NM Quad: 4 SoC NM6408
+    NIC: Gigabit Ethernet
+    SATA: SSD disk
+  NUMA 1
+    Intel Xeon E5-2620 v4, 8 cores
+    NM Quad: 4 SoC NM6408
+
+Server mq2
+  NUMA 0
+    Intel Xeon E5-2620 v3, 6 cores
+    NM Quad: 4 SoC NM6408
+    NIC: Gigabit Ethernet
+    SATA: SSD disk
+  NUMA 0
+    Intel Xeon E5-2620 v3, 6 cores
+    NM Quad: 4 SoC NM6408
+
